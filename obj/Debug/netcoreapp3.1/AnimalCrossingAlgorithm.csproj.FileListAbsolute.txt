@@ -1,0 +1,12 @@
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\bin\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.exe
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\bin\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.deps.json
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\bin\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.runtimeconfig.json
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\bin\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.runtimeconfig.dev.json
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\bin\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.dll
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\bin\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.pdb
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\obj\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.csprojAssemblyReference.cache
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\obj\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\obj\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.AssemblyInfo.cs
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\obj\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.dll
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\obj\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.pdb
+C:\Users\jelian\source\repos\AnimalCrossingAlgorithm\AnimalCrossingAlgorithm\obj\Debug\netcoreapp3.1\AnimalCrossingAlgorithm.genruntimeconfig.cache
